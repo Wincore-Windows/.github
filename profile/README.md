@@ -1,6 +1,6 @@
 # Wincore Windows
 
-Welcome to Wincore Windows & Doors public facing repository.  It will not have much in it at this point as we are just starting to use GitHub and need to decide what will be public facing and what will be kept private.
+Welcome to Wincore Windows & Doors github organization account and repositories.  Our public facing repository(ies) will not have much to share at this point as we are just starting to use GitHub and need to decide what will be public facing and what will be kept private.
 
 Wincore Windows & Doors is a window and door manufacturer headquartered in West Virginia.
 
